@@ -1,6 +1,4 @@
-<img width="1080" height="2400" alt="SwipagleList_Android_JetpackCompose_Scrollto" src="https://github.com/user-attachments/assets/8d0add6f-38e5-4890-8c45-7e216d4f90a7" />
-<img width="1080" height="2400" alt="SwipableList_Android_JetpackCompose_Group" src="https://github.com/user-attachments/assets/42b24964-bd5f-4fbc-b240-d890a7f06ef0" />
-<img width="1080" height="2400" alt="SwipableList_Android_JetpackCompose" src="https://github.com/user-attachments/assets/4f9078be-ac92-481b-82c7-4c0c05ccfeb3" />
+![SwipableList_Android_JetpackCompose](https://github.com/user-attachments/assets/b995fdb2-5ced-4eb6-b9ad-ecc12986ea67)
 
 # Compose Swipeable List
 
